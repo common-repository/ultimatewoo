@@ -1,0 +1,68 @@
+*** UltimateWoo - The Ultimate WooCommerce Plugin (Lite Version) ***
+
+December 23, 2014 - version 0.1.10
+
+ * Fixed: Email opt-in dismiss redirect; there was no error but would redirect to a blank page
+
+December 23, 2014 - version 0.1.9
+
+ * Updated: WooCommerce Brands
+ * Updated: WooCommerce Checkout Fields Editor
+ * Updated: WooCommerce USPS Shipping
+ * Added: Admin notices and links
+ * Maintenance: Refactored register_setting calls
+
+December 16, 2014 - version 0.1.8
+
+ * Added: Copyright information
+
+December 7, 2014 - version 0.1.7
+
+ * Added: WooCommerce Brands
+ * Added: WooCommerce MSRP Pricing
+ * Updated: WooCommerce Checkout Fields Editor
+ * Updated: WooCommerce Shipment Tracking
+ * Updated: WooCommerce USPS Shipping
+ * Fixed: JS and CSS enqueue errors
+
+December 1, 2014 - version 0.1.6
+
+ * Updated: WooCommerce Name Your Price
+ * Updated: WooCommerce Stripe Payment Gateway
+
+
+November 17, 2014 - version 0.1.5
+
+ * Added: New full-version options (viewable only)
+ * Maintenance: Made WooCommerce a condition of installation
+ * Maintenance: Removed duplicate dependency files
+ * Maintenance: Added more save buttons on enable module page
+
+
+November 11, 2014 - version 0.1.4
+
+ * Fixed: Missing files for Social Login that caused social login errors
+
+
+November 6, 2014 - version 0.1.3
+
+ * Added: WooCommerce Social Login
+ * Updated: WooCommerce USPS Shipping
+
+
+November 3, 2014 - version 0.1.2
+ 
+ * Added: Inline links to module descriptions
+ * Added: Full version options (non-functional; for viewing only)
+
+
+October 30, 2014 - version 0.1.1
+ 
+ * Updated: Name Your Price module
+ * Updated: Shipment Tracking module
+ * Updated: USPS Shipping module
+
+
+October 29, 2014 - version 0.1.0
+ 
+ * Initial Release
